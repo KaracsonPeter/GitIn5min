@@ -69,3 +69,5 @@ git push
 OK, still scary xd  
 #### 1. git init
 You can define a git project (it does not require any parameter)
+
+asdasd
