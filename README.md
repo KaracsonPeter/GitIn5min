@@ -68,4 +68,5 @@ git push
 ```
 OK, still scary xd  
 #### 1. git init
-You can define a git project (it does not require any parameter)
+With this command, you can define a git project (`git init` does not require any parameter)  
+![Git dir shown up](images/git_dir.PNG)  
